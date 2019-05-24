@@ -1,2 +1,4 @@
-<a href='https://coveralls.io/github/mokerova/test2'><img src='https://coveralls.io/repos/github/mokerova/test2/badge.svg' alt='Coverage Status' /></a>
-https://travis-ci.org/mokerova/test2/builds/536700581
+[![Build Status](https://travis-ci.org/mokerova/test2.svg?branch=master)](https://travis-ci.org/mokerova/test2)
+[![Coverage Status](https://coveralls.io/repos/seekerk/gtest/badge.svg?branch=master)](https://coveralls.io/github/seekerk/gtest?branch=master)
+[![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=qmake-gtest&metric=alert_status)](https://sonarcloud.io/dashboard?id=qmake-gtest)
+[![Code smells](https://sonarcloud.io/api/project_badges/measure?project=qmake-gtest&metric=code_smells)](https://sonarcloud.io/dashboard?id=qmake-gtest)
